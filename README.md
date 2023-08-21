@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vdomnin-lvs
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
